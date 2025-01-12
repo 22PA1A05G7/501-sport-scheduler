@@ -1,22 +1,22 @@
 {
   "development": {
     "username": "postgres",
-    "password": "1234",
-    "database": "wd-sports-dev",
+    "password": "vishnu@123",
+    "database": "sports",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
-    "password": "1234",
-    "database": "wd-sports-test",
+    "password": "vishnu@123",
+    "database": "sports-schedualar",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
     "username": "postgres",
-    "password": "1234",
-    "database": "wd-sports-prod",
+    "password": "vishnu@123",
+    "database": "sports-dev",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
