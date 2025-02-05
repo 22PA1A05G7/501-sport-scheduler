@@ -1,4 +1,4 @@
-*Sports Session Management App*
+#**Sports Session Management App**
 
 ## *Description*
 The *Sports Session Management App* is a web-based platform designed to streamline the organization and management of sports sessions. It provides an interactive and user-friendly environment for both *admins* and *players* to engage in sports activities effectively. The app facilitates seamless registration, session creation, and participation, ensuring a smooth experience for all users.
